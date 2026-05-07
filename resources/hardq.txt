@@ -1,0 +1,10 @@
+1.Which type of arrow is used to represent inheritance in a UML class diagram?;a) Dashed arrow with an open arrowhead;b) Solid arrow with a filled arrowhead;c) Solid arrow with an open arrowhead;d) Dashed arrow with a filled arrowhead;c) Solid arrow with an open arrowhead
+2.UML class diagrams can include method visibility like +, -, and #.;True;False;True
+3.What will happen if you perform a wait() on a thread without acquiring the object's lock first?;a) The thread waits normally;b) The thread enters a deadlock;c) It gets ignored;d) An IllegalMonitorStateException is thrown;d) An IllegalMonitorStateException is thrown
+4.The IP address 127.0.0.1 represents a broadcast address.;True;False;False
+5.Which scenario can cause a deadlock?;a) Two threads holding locks the other needs;b) Multiple threads sleeping at the same time;c) One thread calling start() twice;d) A loop with no exit condition;a) Two threads holding locks the other needs
+6.The openStream() method of the URL class returns an InputStream that can be used to read data from a web resource.;True;False;True
+7.Which is a correct signature for a generic method in Java?;a) void method<T>();b) <T> void method(T t);c) <T> void method(T);d) T method<T>(T t) ;b) <T> void method(T t)
+8.You can directly instantiate an interface in Java.;True;False;False
+9.In a client-server model, which action is performed by the server?;a) Use Socket to connect to client;b) Send request using Socket;c) Accept connections using ServerSocket;d) Close the connection after every message;c) Accept connections using ServerSocket
+10.Primitive data types like int and double can be used with generic classes directly.;True;False;False

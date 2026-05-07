@@ -1,0 +1,10 @@
+1.Which condition must be true for method overriding in Java?;a) Method must be static;b) Must have same name and parameters;c) Method must be private;d) Method must have a different name;b) Method must have same name and parameters
+2.An abstract class can contain both abstract and concrete methods.;True;False;True
+3.Which keyword is used to prevent multiple threads from accessing a method at the same time?;a) synchronized;b) static;c) private;d) final;a) synchronized
+4.Generics can be used with both classes and methods.;True;False;True
+5.In networking, which class is used to create a client socket?;a) Client;b) ServerSocket;c) Connection;d) Socket;d) Socket
+6.The wait() and notify() methods must be called within a synchronized block or method.;True;False;True
+7.Which of these features was introduced in Java  for interfaces?;a) Static and default methods;b) Constructor definitions;c) Abstract Methods;d) Private variables;a) Static and default methods
+8.You can create an instance of an interface using the new keyword directly.;True;False;False
+9.What is the purpose of generics in Java?;a) Improve speed of execution;b) Avoid using arrays;c) Enable type safety at compile time;d) Reduce memory usage;c) Enable type safety at compile time
+10.In Java, a thread can be created by either extending the Thread class or implementing the Runnable interface.;True;False;True

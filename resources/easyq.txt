@@ -1,0 +1,10 @@
+1.What is the extension of java code files?;a) .js;b) .txt;c) .class;d) .java;d) .java
+2.Java is a case sensitive language.;True;False;True
+3.Which of these keywords is used to define interfaces in Java?;a) intf;b) Intf;c) interface;d) Interface;c) interface
+4.In Java, every application must have a main method.;True;False;True
+5.Which one of the following is not an access modifier?;a) Protected;b) Void;c) Public; d)Private;b) Void
+6.Synchronization helps multiple threads access shared resources at the same time.;Ture;False;False
+7.Which Java class is commonly used to create a server socket?;a) Socket;b) ClientSocket;c) ServerSocket;d) NetworkSocket;c) ServerSocket
+8.System.out.println( "Hello world!" ) contains a syntax error.;True;False;True
+9.What must a class do if it extends an abstract class and doesn’t implement all abstract methods?;a) Make itself abstract;b) Be declared as final;c) Not compile;d) Override toString();a) Make itself abstract
+10.wait() is used to pause a thread until another thread notifies it.;True;False;True
