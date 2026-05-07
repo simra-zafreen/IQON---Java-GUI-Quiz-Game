@@ -1,5 +1,5 @@
 # IQON---Java-GUI-Quiz-Game
-IQON is an interactive JavaFX quiz game designed with a clean graphical interface, timed gameplay, difficulty levels, scoring, background music, and leaderboard functionality. The application allows users to enter a username, choose a difficulty level, answer quiz questions, and view their final score and ranking.
+IQON is a JavaFX quiz application built as a team project to create an interactive and engaging quiz experience. The app begins with a username entry screen, then allows the player to choose a difficulty level before starting the quiz. Questions are loaded dynamically from text files, and the player’s score is calculated based on correct answers. The project also includes a leaderboard system. Scores are saved locally, sorted by score and completion time, and displayed at the end of the quiz. A TCP/IP client-server feature was also implemented to send the player's username, score, and time taken to a server, which returns the player's rank and top three leaderboard results.
 
 
 ## Features
